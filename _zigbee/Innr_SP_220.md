@@ -2,7 +2,7 @@
 date_added: 2020-04-04
 model: SP 220
 vendor: Innr
-title: Smart Plug UK/EU
+title: Smart Plug EU
 category: plug
 supports: on/off
 image: /assets/images/devices/Innr_SP_220.jpg
